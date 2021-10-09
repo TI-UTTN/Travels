@@ -118,11 +118,7 @@ a:focus {
 .form-control:-ms-input-placeholder { color: white; }
 
 .form-control:focus {
-<<<<<<< HEAD
-  border-bottom: 1px solid #356ba2;
-=======
   border-bottom: 1px solid #053315;
->>>>>>> First
   outline: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -161,11 +157,7 @@ textarea.form-control {
   right: 0;
   width: 26%;
   height: 100%;
-<<<<<<< HEAD
-  background-color: #356ba2;
-=======
   background-color: #292b2a;
->>>>>>> First
   overflow-y: auto;
   z-index: 1;
   display: -webkit-box;
@@ -620,26 +612,15 @@ textarea.form-control {
 .banner-section {
   position: relative;
   text-align: center;
-<<<<<<< HEAD
-  background-color: #99ccff;
-=======
   background-color: #fff599;
->>>>>>> First
   padding-top: 121px;
   align-items: flex-start;
 }
 
-<<<<<<< HEAD
-.bg-blue-transparent { background-color: rgb(102 153 204 / 0.8); }
-
-.banner-section .logo-fa {  
-  color: #fff;
-=======
 .bg-blue-transparent { background-color: rgba(0, 0, 0, 0.47); }
 
 .banner-section .logo-fa {  
   color: rgb(255, 255, 255);
->>>>>>> First
   max-width: 400px;
   margin-left: 5px;
   padding-top: 43px;
@@ -675,11 +656,7 @@ textarea.form-control {
 }
 
 .banner-section .simple {
-<<<<<<< HEAD
-  color: #fff;
-=======
   color: rgb(255, 255, 255);
->>>>>>> First
   display: inline-block;
   margin: auto;
   margin-left: 97px;
@@ -712,11 +689,7 @@ textarea.form-control {
   padding-top: 90px!important;
   padding-bottom: 90px!important;
   min-height: 850px;
-<<<<<<< HEAD
-  background-color: #6699cc;
-=======
   background-color: #ad857e;
->>>>>>> First
 }
 
 .work-section .container { max-width: 1242px; }
@@ -773,19 +746,12 @@ textarea.form-control {
 }
 
 .work-section .item h3 {
-<<<<<<< HEAD
-  color: #ffccff;
-=======
   color: #000000;
->>>>>>> First
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: -1px;
   margin-bottom: 9px;
-<<<<<<< HEAD
-=======
   font-style: bold;
->>>>>>> First
 }
 
 .work-section .item p {
@@ -814,11 +780,7 @@ textarea.form-control {
   margin: 0;
   max-width: 200px;
 	height: auto;
-<<<<<<< HEAD
-	background: #3085a3;
-=======
 	background: #ffffff;
->>>>>>> First
 	text-align: center;
 	cursor: pointer;
 }
@@ -885,11 +847,7 @@ textarea.form-control {
 }
 
 .gallery-section {
-<<<<<<< HEAD
-  background-color: #99ccff;
-=======
   background-color: #000000;
->>>>>>> First
 }
 
 .gallery-section .title {
@@ -983,12 +941,8 @@ figure.effect-julia:hover p {
   .gallery-section .title { margin-bottom: 40px; }
 }
 
-<<<<<<< HEAD
-.gallery-section .title h2 { color: #006699; }
-=======
 .gallery-section .title h2 { color: #ffffff;
                               font-style: bold; }
->>>>>>> First
 .gallery-section .slick-list { margin-bottom: 40px; }
 
 .gallery-section .item {
@@ -1018,11 +972,7 @@ figure.effect-julia:hover p {
 .gallery-section .slick-dots li button { display: none; }
 
 .contact-section {
-<<<<<<< HEAD
-  background-color: #6699cc;
-=======
   background-color: #ad857e;
->>>>>>> First
   flex-direction: column;
   justify-content: center;
 }
@@ -1102,11 +1052,7 @@ figure.effect-julia:hover p {
 /* <<< footer >>> */
 .footer {
   position: relative;
-<<<<<<< HEAD
-  background-color: #6699cc;
-=======
   background-color: #212325;
->>>>>>> First
   color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
