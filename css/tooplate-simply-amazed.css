@@ -946,6 +946,7 @@ figure.effect-julia:hover p {
 .gallery-section .item {
   text-align: center;
   margin: 5px;
+  height: 14rem;
 }
 
 .gallery-section .slick-dots {
