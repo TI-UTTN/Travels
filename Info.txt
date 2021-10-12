@@ -1,0 +1,1 @@
+Duplicar pagina index o dhcm y modificar con los datos de manera indivisual, no sobreescribir index ni dhcm.
