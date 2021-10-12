@@ -408,7 +408,7 @@ textarea.form-control {
   padding: 0;
 }
 
-.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #99ccff; }
+.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #000; }
 
 .navbar .navbar-nav > .nav-item > a.nav-link.dropdown-toggle::after {
   content: '';
@@ -617,7 +617,7 @@ textarea.form-control {
   align-items: flex-start;
 }
 
-.bg-blue-transparent { background-color: rgb(102 153 204 / 0.8); }
+.bg-blue-transparent { background-color: rgb(0 0 0 / 0.6); }
 
 .banner-section .logo-fa {  
   color: #fff;
@@ -689,7 +689,7 @@ textarea.form-control {
   padding-top: 90px!important;
   padding-bottom: 90px!important;
   min-height: 850px;
-  background-color: #6699cc;
+  background-color: #42484c;
 }
 
 .work-section .container { max-width: 1242px; }
@@ -970,7 +970,7 @@ figure.effect-julia:hover p {
 .gallery-section .slick-dots li button { display: none; }
 
 .contact-section {
-  background-color: #6699cc;
+  background-color: #42484c;
   flex-direction: column;
   justify-content: center;
 }
@@ -1050,7 +1050,7 @@ figure.effect-julia:hover p {
 /* <<< footer >>> */
 .footer {
   position: relative;
-  background-color: #6699cc;
+  background-color: #42484c;
   color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
