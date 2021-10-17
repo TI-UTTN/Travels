@@ -71,13 +71,13 @@ a:focus {
 /* <<< btn-primary >>> */
 .btn-primary {
   color: #fff;
-  background-color: #356ba2;
+  background-color: #FF3399;
   border-color: transparent;
 }
 
 .btn-primary.active, .btn-primary:active, .btn-primary.focus, .btn-primary:focus, .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:hover {
   color: #fff;
-  background-color: #99ccff;
+  background-color: #FF66B2;
   border-color: transparent;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -970,7 +970,7 @@ figure.effect-julia:hover p {
 .gallery-section .slick-dots li button { display: none; }
 
 .contact-section {
-  background-color: #6699cc;
+  background-color: #202020;
   flex-direction: column;
   justify-content: center;
 }
@@ -1050,7 +1050,7 @@ figure.effect-julia:hover p {
 /* <<< footer >>> */
 .footer {
   position: relative;
-  background-color: #6699cc;
+  background-color: #000000;
   color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
