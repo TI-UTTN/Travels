@@ -157,7 +157,7 @@ textarea.form-control {
   right: 0;
   width: 26%;
   height: 100%;
-  background-color: #356ba2;
+  background-color: #000000;
   overflow-y: auto;
   z-index: 1;
   display: -webkit-box;
@@ -397,7 +397,7 @@ textarea.form-control {
 .navbar .navbar-nav > .nav-item.current-menu-ancestor > a.dropdown-toggle {
   background-color: transparent;
   outline: 0;
-  color: #99ccff;
+  color: #FF66B2;
   transition: all 0.3s ease;
 }
 
@@ -408,7 +408,7 @@ textarea.form-control {
   padding: 0;
 }
 
-.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #99ccff; }
+.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #FF66B2; }
 
 .navbar .navbar-nav > .nav-item > a.nav-link.dropdown-toggle::after {
   content: '';
@@ -617,7 +617,7 @@ textarea.form-control {
   align-items: flex-start;
 }
 
-.bg-blue-transparent { background-color: rgb(102 153 204 / 0.8); }
+.bg-blue-transparent { background-color: rgb(32 32 32 / 0.8); }
 
 .banner-section .logo-fa {  
   color: #fff;
@@ -689,7 +689,7 @@ textarea.form-control {
   padding-top: 90px!important;
   padding-bottom: 90px!important;
   min-height: 850px;
-  background-color: #6699cc;
+  background-color: #2E2A2A;
 }
 
 .work-section .container { max-width: 1242px; }
@@ -746,7 +746,7 @@ textarea.form-control {
 }
 
 .work-section .item h3 {
-  color: #ffccff;
+  color: #FF66B2;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: -1px;
@@ -779,7 +779,7 @@ textarea.form-control {
   margin: 0;
   max-width: 200px;
 	height: auto;
-	background: #3085a3;
+	background: #FF66B2;
 	text-align: center;
 	cursor: pointer;
 }
@@ -846,7 +846,7 @@ textarea.form-control {
 }
 
 .gallery-section {
-  background-color: #99ccff;
+  background-color: #FF66B2;
 }
 
 .gallery-section .title {
@@ -940,7 +940,7 @@ figure.effect-julia:hover p {
   .gallery-section .title { margin-bottom: 40px; }
 }
 
-.gallery-section .title h2 { color: #006699; }
+.gallery-section .title h2 { color: #FFFFFF; }
 .gallery-section .slick-list { margin-bottom: 40px; }
 
 .gallery-section .item {
@@ -954,7 +954,7 @@ figure.effect-julia:hover p {
 }
 
 .gallery-section .slick-dots li {
-  background-color: #6699cc;
+  background-color: #FF66B2;
   width: 20px;
   height: 20px;
   border-radius: 100%;
@@ -964,7 +964,7 @@ figure.effect-julia:hover p {
 
 .gallery-section .slick-dots li.slick-active,
 .gallery-section .slick-dots li:hover {
-  background-color: #006699;
+  background-color: #FF3399;
 }
 
 .gallery-section .slick-dots li button { display: none; }
