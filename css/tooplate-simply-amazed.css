@@ -157,7 +157,7 @@ textarea.form-control {
   right: 0;
   width: 26%;
   height: 100%;
-  background-color: #356ba2;
+  background-color: #000000;
   overflow-y: auto;
   z-index: 1;
   display: -webkit-box;
@@ -397,7 +397,7 @@ textarea.form-control {
 .navbar .navbar-nav > .nav-item.current-menu-ancestor > a.dropdown-toggle {
   background-color: transparent;
   outline: 0;
-  color: #99ccff;
+  color: #1B4B8B;
   transition: all 0.3s ease;
 }
 
@@ -408,7 +408,7 @@ textarea.form-control {
   padding: 0;
 }
 
-.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #99ccff; }
+.navbar .navbar-nav > .nav-item > a.nav-link.current { color: #1B4B8B; }
 
 .navbar .navbar-nav > .nav-item > a.nav-link.dropdown-toggle::after {
   content: '';
@@ -602,7 +602,7 @@ textarea.form-control {
 }
 
 .section {
-  height: 100vh;
+  height: 10vh;
   min-height: 700px;
   display: flex;
   align-items: center;
@@ -689,7 +689,7 @@ textarea.form-control {
   padding-top: 90px!important;
   padding-bottom: 90px!important;
   min-height: 850px;
-  background-color: #6699cc;
+  background-color: #000000;
 }
 
 .work-section .container { max-width: 1242px; }
@@ -746,7 +746,7 @@ textarea.form-control {
 }
 
 .work-section .item h3 {
-  color: #ffccff;
+  color: #1B4B8B;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: -1px;
@@ -970,7 +970,7 @@ figure.effect-julia:hover p {
 .gallery-section .slick-dots li button { display: none; }
 
 .contact-section {
-  background-color: #6699cc;
+  background-color: #021558;
   flex-direction: column;
   justify-content: center;
 }
@@ -1050,7 +1050,7 @@ figure.effect-julia:hover p {
 /* <<< footer >>> */
 .footer {
   position: relative;
-  background-color: #6699cc;
+  background-color: #000000;
   color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1092,7 +1092,8 @@ figure.effect-julia:hover p {
 
 @media (max-width: 1800px) {
   .footer { left: 15px; }
-  .container-2 { max-width: 1150px; }
+  .container-2 { max-width: 100%;
+}
 }
 
 @media (max-width: 1733px) {
