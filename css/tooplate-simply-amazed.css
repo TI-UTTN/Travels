@@ -157,7 +157,7 @@ textarea.form-control {
   right: 0;
   width: 26%;
   height: 100%;
-  background-color: #356ba2;
+  background-color: #8a8a5c;
   overflow-y: auto;
   z-index: 1;
   display: -webkit-box;
@@ -617,7 +617,7 @@ textarea.form-control {
   align-items: flex-start;
 }
 
-.bg-blue-transparent { background-color: rgb(102 153 204 / 0.8); }
+.bg-blue-transparent { background-color: rgb(122 122 82 / 0.8); }
 
 .banner-section .logo-fa {  
   color: #fff;
@@ -689,7 +689,7 @@ textarea.form-control {
   padding-top: 90px!important;
   padding-bottom: 90px!important;
   min-height: 850px;
-  background-color: #6699cc;
+  background-color: #7a7a52;
 }
 
 .work-section .container { max-width: 1242px; }
@@ -970,7 +970,7 @@ figure.effect-julia:hover p {
 .gallery-section .slick-dots li button { display: none; }
 
 .contact-section {
-  background-color: #6699cc;
+  background-color: #7a7a52;
   flex-direction: column;
   justify-content: center;
 }
@@ -1050,7 +1050,7 @@ figure.effect-julia:hover p {
 /* <<< footer >>> */
 .footer {
   position: relative;
-  background-color: #6699cc;
+  background-color: #7a7a52;
   color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
